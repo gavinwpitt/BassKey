@@ -1,0 +1,9 @@
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\bin\Debug\BassKey.exe.config
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\bin\Debug\BassKey.exe
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\bin\Debug\BassKey.pdb
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\obj\Debug\BassKey.csprojResolveAssemblyReference.cache
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\obj\Debug\BassKey.Form1.resources
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\obj\Debug\BassKey.Properties.Resources.resources
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\obj\Debug\BassKey.csproj.GenerateResource.Cache
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\obj\Debug\BassKey.exe
+c:\users\212598848\documents\visual studio 2015\Projects\BassKey\BassKey\obj\Debug\BassKey.pdb
