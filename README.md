@@ -9,4 +9,6 @@ you would like to see, and then you can click a note and it will highlight all t
 For example, if you had 'Dorian' mode selected from the above drop down and then clicked any of the D notes, all the notes contained
 within D-Dorian would be highlighted, with D (the root note) highlighted in a different color to help it stick out
 
-![alt text](https://imgur.com/a/CMz29)
+<p align="center">
+  <img src="https://i.imgur.com/cRcEWih.png" width="350"/>
+</p>
