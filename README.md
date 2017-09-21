@@ -10,5 +10,5 @@ For example, if you had 'Dorian' mode selected from the above drop down and then
 within D-Dorian would be highlighted, with D (the root note) highlighted in a different color to help it stick out
 
 <p align="center">
-  <img src="https://i.imgur.com/cRcEWih.png" width="350"/>
+  <img src="https://i.imgur.com/cRcEWih.png"/>
 </p>
